@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Sepehr's homepage"
 title_separator          : "-"
 name                     : &name "Sepehr"
 description              : &description "Personal Homepage of Sepehr Kazemi Ranjbar"
@@ -24,7 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Sepehr Kazemi Ranjbar"
   #pronouns         : # example: "she/her"  
-  #bio              : "Undergraduate student in Electrical Engineering of Sharif University of Technology "
+  bio              : " 
+                      "
   #location         : "Tehran, IRAN"
   #employer         : "Red Brick University"
   #uri              : # URL
